@@ -1,0 +1,8 @@
+{
+  "name": "Remix ALAM\u0027S Batch",
+  "description": "ALAM\u0027S Biology-Chemistry Private Batch — SSC \u0026 HSC science learning hub, video lessons, problem solving box, online exams, and payment management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

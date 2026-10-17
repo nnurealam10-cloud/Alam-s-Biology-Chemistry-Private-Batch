@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ALAM\'S Batch</string>
+    <string name="institution_full_name">ALAM\'S Biology-Chemistry Private Batch</string>
+    <string name="institution_tagline">Biology &amp; Chemistry Excellence | SSC &amp; HSC</string>
+    <string name="channel_handle">@alamssciencelab</string>
+    <string name="payment_phone">01577654118</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">হোম</string>
+    <string name="nav_classes">ক্লাস</string>
+    <string name="nav_exams">পরীক্ষা</string>
+    <string name="nav_community">সমাধান বক্স</string>
+    <string name="nav_fees">ফি ও বেতন</string>
+    <string name="nav_admin">অ্যাডমিন</string>
+
+    <!-- General -->
+    <string name="batch_ssc">SSC ব্যাচ (৯ম-১০ম)</string>
+    <string name="batch_hsc">HSC ব্যাচ (১১শ-১২শ)</string>
+    <string name="subject_biology">জীববিজ্ঞান</string>
+    <string name="subject_chemistry">রসায়ন</string>
+    <string name="status_pending">যাচাইাধীন (Pending)</string>
+    <string name="status_verified">গৃহীত (Verified)</string>
+    <string name="status_rejected">বাতিল (Rejected)</string>
+</resources>
